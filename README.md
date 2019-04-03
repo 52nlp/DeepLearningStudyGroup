@@ -1,4 +1,4 @@
-# DeepLearning Study Group
+# Deep Learning Study Group
 使用Pytorch, Tensorflow進行Deep Learning的實務學習
 # 目的:
 
