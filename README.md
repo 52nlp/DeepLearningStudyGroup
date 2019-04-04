@@ -12,10 +12,11 @@
 + [ ] Tensorflow: 
   + [ ] [Common knowledge][3]
   + [ ] [玩轉IRIS資料集, 零基礎範例][5]
-  + [ ] Case 1: [MNIST (RNN)][2]
-  + [ ] Case 1: [Fashion MNIST (DNN, GRU, Dataset API][1]
+  + [ ] [Case 1: MNIST (RNN)][2]
+  + [ ] [Case 1: Fashion MNIST (DNN, GRU, Dataset API)][1]
 
-+ [ ] [Attention is all you need (pytorch)][4]
++ [ ] [Pytorch: Attention is all you need (Transformer)][4]
++ [ ] [Tensorflow: Attention is all you need (Transformer)][8]
 
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
@@ -25,3 +26,4 @@
 [5]:https://www.jianshu.com/p/b86c020747f9
 [6]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter05_linear/population.ipynb
 [7]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter06_logistic/stock_volume.ipynb
+[8]:https://github.com/princewen/tensorflow_practice/tree/master/basic/Basic-Transformer-Demo
