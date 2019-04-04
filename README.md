@@ -5,18 +5,19 @@
 # 方法:
 
 # 時程:
-+ [ ] Pytorch 入門: Tensor 操作, torch optim..等 **2019/4/7**
++ [ ] Pytorch 入門: Tensor 操作, torch optim..等 **2019/4/14**
 + [ ] Pytorch: Linear Regression, Logistic Regression
-  + [ ] [Case 1: 世界人口預測 (Linear Regression)][6] **2019/4/14**
-  + [ ] [Case 2: Stock Price (Logistic Regression)][7] **2019/4/14**
+  + [ ] [Case 1: 世界人口預測 (Linear Regression)][6] **2019/4/21**
+  + [ ] [Case 2: Stock Price (Logistic Regression)][7] **2019/4/21**
 + [ ] Tensorflow: 
-  + [ ] [Common knowledge][3] **2019/4/21**
-  + [ ] [玩轉IRIS資料集, 零基礎範例][5] **2019/4/21**
-  + [ ] [Case 1: MNIST (RNN)][2] **2019/4/28**
-  + [ ] [Case 2: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/4/28**
+  + [ ] [Common knowledge][3] **2019/4/28**
+  + [ ] [玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
+  + [ ] [Case 1: MNIST (RNN)][2] **2019/5/5**
+  + [ ] [Case 2: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
+  + [ ] [Case 3: Fashion MNIST (Tensorflow 2.0 API)[9] **2019/5/5**
 
-+ [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/12**
-+ [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/5/26**
++ [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
++ [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
 
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
@@ -27,3 +28,4 @@
 [6]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter05_linear/population.ipynb
 [7]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter06_logistic/stock_volume.ipynb
 [8]:https://github.com/princewen/tensorflow_practice/tree/master/basic/Basic-Transformer-Demo
+[9]:https://www.jianshu.com/p/c7a280600da8
