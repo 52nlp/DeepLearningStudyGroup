@@ -19,6 +19,8 @@
 + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
 + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
 
+## Reference Material
++ [Tensorflow 中文教學][10]
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
 [2]:https://colab.research.google.com/drive/18FqI18psdH30WUJ1uPd6zVgK2AwxO_Bj
@@ -29,3 +31,4 @@
 [7]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter06_logistic/stock_volume.ipynb
 [8]:https://github.com/princewen/tensorflow_practice/tree/master/basic/Basic-Transformer-Demo
 [9]:https://www.jianshu.com/p/c7a280600da8
+[10]:https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese
