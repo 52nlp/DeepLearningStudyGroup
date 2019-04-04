@@ -21,6 +21,7 @@
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
++ [Transformer 入門中文文章][11]
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
 [2]:https://colab.research.google.com/drive/18FqI18psdH30WUJ1uPd6zVgK2AwxO_Bj
@@ -32,3 +33,4 @@
 [8]:https://github.com/princewen/tensorflow_practice/tree/master/basic/Basic-Transformer-Demo
 [9]:https://www.jianshu.com/p/c7a280600da8
 [10]:https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese
+[11]:https://voidism.github.io/note/2019/02/05/Transformer_Intro/
