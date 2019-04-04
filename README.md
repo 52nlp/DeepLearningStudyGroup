@@ -13,7 +13,7 @@
   + [ ] [Common knowledge][3] **4/21**
   + [ ] [玩轉IRIS資料集, 零基礎範例][5] **4/21**
   + [ ] [Case 1: MNIST (RNN)][2] **4/28**
-  + [ ] [Case 1: Fashion MNIST (DNN, GRU, Dataset API)][1] **4/28**
+  + [ ] [Case 2: Fashion MNIST (DNN, GRU, Dataset API)][1] **4/28**
 
 + [ ] [Pytorch: Attention is all you need (Transformer)][4] **5/12**
 + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **5/26**
