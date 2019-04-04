@@ -7,8 +7,8 @@
 # 時程:
 + [ ] Pytorch 入門: Tensor 操作, torch optim..
 + [ ] Pytorch: Linear Regression, Logistic Regression
-  + [ ] Case 1: 世界人口預測 (Linear Regression)
-  + [ ] Case 2: MNIST (Logistic Regression)
+  + [ ] [Case 1: 世界人口預測 (Linear Regression)][6]
+  + [ ] [Case 2: Stock Price (Logistic Regression)][7]
 + [ ] Tensorflow: 
   + [ ] [Common knowledge][3]
   + [ ] [玩轉IRIS資料集, 零基礎範例][5]
@@ -23,3 +23,5 @@
 [3]:https://medium.com/the-artificial-impostor/notes-understanding-tensorflow-part-1-5f0ebb253ad4
 [4]:https://github.com/jadore801120/attention-is-all-you-need-pytorch
 [5]:https://www.jianshu.com/p/b86c020747f9
+[6]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter05_linear/population.ipynb
+[7]:https://github.com/ZhiqingXiao/pytorch-book/blob/master/chapter06_logistic/stock_volume.ipynb
