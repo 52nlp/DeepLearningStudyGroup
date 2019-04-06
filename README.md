@@ -9,6 +9,7 @@
 + [ ] Pytorch: Linear Regression, Logistic Regression
   + [ ] [Case 1: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case 2: Stock Price (Logistic Regression)][7] **2019/4/21**
+  + [ ] [Case 3: MNIST (Logistic Regression)][12] **2019/4/21**
 + [ ] Tensorflow: 
   + [ ] [Common knowledge][3] **2019/4/28**
   + [ ] [玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
@@ -34,3 +35,4 @@
 [9]:https://www.jianshu.com/p/c7a280600da8
 [10]:https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese
 [11]:https://voidism.github.io/note/2019/02/05/Transformer_Intro/
+[12]:https://medium.com/jovian-io/image-classification-using-logistic-regression-in-pytorch-ebb96cc9eb79
