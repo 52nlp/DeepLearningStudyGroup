@@ -3,7 +3,7 @@
 # 目的:
 使用Pytorch, Tensorflow進行Deep Learning的實務學習
 # 方法:
-實務cases實作, 每週實體聚會討論交留, 隨時線上討論.
+實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
 + [ ] Pytorch 入門: Tensor 操作, torch optim..等 **2019/4/14**
 + [ ] Pytorch: Linear Regression, Logistic Regression
