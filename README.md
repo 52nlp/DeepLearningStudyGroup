@@ -17,7 +17,7 @@
   + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
-+ [ ] 短期Milestones:
++ [ ] Milestones目標:
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
 
