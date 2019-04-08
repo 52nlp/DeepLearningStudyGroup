@@ -7,15 +7,16 @@
 # 時程:
 + [ ] Pytorch 入門: Tensor 操作, torch optim..等 **2019/4/14**
 + [ ] Pytorch: Linear Regression, Logistic Regression
-  + [ ] [Case 1: 世界人口預測 (Linear Regression)][6] **2019/4/21**
-  + [ ] [Case 2: Stock Price (Logistic Regression)][7] **2019/4/21**
-  + [ ] [Case 3: MNIST (Logistic Regression)][12] **2019/4/21**
+  + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
+  + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
+  + [ ] [Case: MNIST (Logistic Regression)][12] **2019/4/21**
 + [ ] Tensorflow: 
   + [ ] [Common knowledge][3] **2019/4/28**
-  + [ ] [玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
-  + [ ] [Case 1: MNIST (RNN)][2] **2019/5/5**
-  + [ ] [Case 2: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
-  + [ ] [Case 3: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
+  + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
+  + [ ] [Case: Titanic survivor (Logistic Regression)][5] **2019/4/28**
+  + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
+  + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
+  + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
 
 + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
 + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
@@ -36,3 +37,4 @@
 [10]:https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese
 [11]:https://voidism.github.io/note/2019/02/05/Transformer_Intro/
 [12]:https://medium.com/jovian-io/image-classification-using-logistic-regression-in-pytorch-ebb96cc9eb79
+[13]:https://codability.in/a-guide-tensorflow-logistic-regression-part-6/
