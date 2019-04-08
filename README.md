@@ -5,21 +5,21 @@
 # 方法:
 實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
-+ [ ] Pytorch 入門: Tensor 操作, torch optim..等 **2019/4/14**
-+ [ ] Pytorch: Linear Regression, Logistic Regression
++ [ ] Pytorch 入門: Tensor 操作, torch optim...等 **2019/4/14**
++ [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
   + [ ] [Case: MNIST (Logistic Regression)][12] **2019/4/21**
-+ [ ] Tensorflow: 
++ [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/4/28**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
   + [ ] [Case: Titanic survivor (Logistic Regression)][5] **2019/4/28**
   + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
-
-+ [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
-+ [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
++ [ ] 短期Milestones:
+  + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
+  + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
