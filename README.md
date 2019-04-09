@@ -20,6 +20,7 @@
 + [ ] Milestones目標:
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
+  + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
@@ -38,3 +39,4 @@
 [11]:https://voidism.github.io/note/2019/02/05/Transformer_Intro/
 [12]:https://medium.com/jovian-io/image-classification-using-logistic-regression-in-pytorch-ebb96cc9eb79
 [13]:https://codability.in/a-guide-tensorflow-logistic-regression-part-6/
+[14]:https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
