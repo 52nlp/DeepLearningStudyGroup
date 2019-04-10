@@ -14,6 +14,7 @@
   + [ ] [Common knowledge][3] **2019/4/28**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
   + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/4/28**
+  + [ ] [Case: Credit Card Analysis (Logistic Regression to DNN)][13] **2019/4/28**
   + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
@@ -40,3 +41,4 @@
 [12]:https://medium.com/jovian-io/image-classification-using-logistic-regression-in-pytorch-ebb96cc9eb79
 [13]:https://codability.in/a-guide-tensorflow-logistic-regression-part-6/
 [14]:https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
+[15]:https://ipythonquant.wordpress.com/2018/06/20/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-iii/
