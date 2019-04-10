@@ -13,7 +13,7 @@
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/4/28**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
-  + [ ] [Case: Titanic survivor (Logistic Regression)][5] **2019/4/28**
+  + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/4/28**
   + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
