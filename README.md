@@ -6,7 +6,7 @@
 實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
 + [ ] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
-  + [ ] Pytorch的backward()相关理解(舊版pytorch，參考) https://blog.csdn.net/douhaoexia/article/details/78821428
+  + [ ] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
 + [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
@@ -44,3 +44,4 @@
 [14]:https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
 [15]:https://ipythonquant.wordpress.com/2018/06/20/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-iii/
 [16]:https://medium.com/jovian-io/pytorch-basics-tensors-and-gradients-eb2f6e8a6eee
+[17]:https://blog.csdn.net/douhaoexia/article/details/78821428
