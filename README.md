@@ -6,7 +6,7 @@
 實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
 + [ ] Pytorch 入門: Tensor 操作, torch optim...等 **2019/4/14**
-  + [ ] Pytorch的backward()相关理解 https://blog.csdn.net/douhaoexia/article/details/78821428
+  + [ ] Pytorch的backward()相关理解(舊版pytorch，參考) https://blog.csdn.net/douhaoexia/article/details/78821428
 + [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
