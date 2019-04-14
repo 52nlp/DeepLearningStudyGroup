@@ -7,7 +7,7 @@
 # 時程:
 + [ ] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
   + [ ] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
-  + [ ] [PyTorch 基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
+  + [ ] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
 + [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
