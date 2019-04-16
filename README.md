@@ -27,6 +27,7 @@
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
++ [Pytorch LSTM, GRU][19]
 + [Transformer 入門中文文章][11]
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
@@ -47,3 +48,4 @@
 [16]:https://medium.com/jovian-io/pytorch-basics-tensors-and-gradients-eb2f6e8a6eee
 [17]:https://blog.csdn.net/douhaoexia/article/details/78821428
 [18]:https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305d9cd231015d9d0992ef0030
+[19]:https://zhuanlan.zhihu.com/p/39191116
