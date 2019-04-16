@@ -21,6 +21,7 @@
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
 + [ ] Milestones目標 (關鍵成果):
+  + [ ] [Pytorch: Seq2Seq 實作數學加法運算 (with or without Attention)][20] **2019/5/1**
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
@@ -49,3 +50,4 @@
 [17]:https://blog.csdn.net/douhaoexia/article/details/78821428
 [18]:https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305d9cd231015d9d0992ef0030
 [19]:https://zhuanlan.zhihu.com/p/39191116
+[20]:http://zake7749.github.io/2017/09/28/Sequence-to-Sequence-tutorial/
