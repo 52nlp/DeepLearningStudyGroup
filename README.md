@@ -26,6 +26,7 @@
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
+  + [ ] [大型資料黑客松競賽][] **2019/11/1**
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
