@@ -8,6 +8,7 @@
 + [ ] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
   + [ ] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
   + [ ] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
+  + [ ] [2019-0420 Slide][21]
 + [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
@@ -51,3 +52,4 @@
 [18]:https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305d9cd231015d9d0992ef0030
 [19]:https://zhuanlan.zhihu.com/p/39191116
 [20]:http://zake7749.github.io/2017/09/28/Sequence-to-Sequence-tutorial/
+[21]:https://docs.google.com/presentation/d/e/2PACX-1vSVi_bYmbEMRDYON1sJJZfcG2KidmPjh-X7zeoNn7s6eidzgdJgOJevW3xxE2dhO1i6qN-OBM8tnHpq/pub?start=false&loop=false&delayms=3000
