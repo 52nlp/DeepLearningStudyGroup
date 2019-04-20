@@ -5,10 +5,10 @@
 # 方法:
 實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
-+ [ ] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
-  + [ ] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
-  + [ ] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
-  + [ ] [2019-0420 Slide][21]
++ [X] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
+  + [X] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
+  + [X] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
+  + [X] [2019-0420 Slide][21]@忠孝伯朗咖啡 
 + [ ] Pytorch Cases實作: 
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
@@ -26,7 +26,7 @@
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
-  + [ ] [大型資料黑客松競賽][] **2019/11/1**
+  + [ ] 大型資料黑客松競賽 **2019/11/1**
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
