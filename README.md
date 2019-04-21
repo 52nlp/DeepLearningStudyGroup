@@ -28,6 +28,10 @@
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
     + [ ] [Ref: Neural ODE & DiffEqFlux - 杜岳華 (without QA)][22]
   + [ ] 大型資料黑客松競賽 **2019/11/1**
+    + [ ] Search for global hackathon: https://www.hackathon.com/
+      + [ ] possible event1: https://www.hackathon.com/event/take-europe-to-the-hearts-hackathon-39909500390
+      + [ ] possible event2: https://www.eventbrite.com/e/zero-waste-retail-hackathon-tickets-58778354641
+  
 
 ## Reference Material
 + [Tensorflow 中文教學][10]
