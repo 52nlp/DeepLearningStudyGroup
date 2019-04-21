@@ -26,6 +26,7 @@
   + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
+    + [ ] [Ref: Neural ODE & DiffEqFlux - 杜岳華 (without QA)][22]
   + [ ] 大型資料黑客松競賽 **2019/11/1**
 
 ## Reference Material
@@ -54,3 +55,4 @@
 [19]:https://zhuanlan.zhihu.com/p/39191116
 [20]:http://zake7749.github.io/2017/09/28/Sequence-to-Sequence-tutorial/
 [21]:https://docs.google.com/presentation/d/e/2PACX-1vSVi_bYmbEMRDYON1sJJZfcG2KidmPjh-X7zeoNn7s6eidzgdJgOJevW3xxE2dhO1i6qN-OBM8tnHpq/pub?start=false&loop=false&delayms=3000
+[22]:https://www.youtube.com/watch?v=hAA_AfVB89M&app=desktop
