@@ -31,6 +31,7 @@
     + [ ] Search for global hackathon: https://www.hackathon.com/
       + [ ] possible event1: https://www.hackathon.com/event/take-europe-to-the-hearts-hackathon-39909500390
       + [ ] possible event2: https://www.eventbrite.com/e/zero-waste-retail-hackathon-tickets-58778354641
+      + [ ] possible event3: https://techandrelationships.org/
   
 
 ## Reference Material
