@@ -13,6 +13,7 @@
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
   + [ ] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
+  [ ] [2019-0505 Slide][21]@小樹屋-民權西路 
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
@@ -61,3 +62,4 @@
 [20]:http://zake7749.github.io/2017/09/28/Sequence-to-Sequence-tutorial/
 [21]:https://docs.google.com/presentation/d/e/2PACX-1vSVi_bYmbEMRDYON1sJJZfcG2KidmPjh-X7zeoNn7s6eidzgdJgOJevW3xxE2dhO1i6qN-OBM8tnHpq/pub?start=false&loop=false&delayms=3000
 [22]:https://www.youtube.com/watch?v=hAA_AfVB89M&app=desktop
+[23]:https://docs.google.com/presentation/d/e/2PACX-1vRjpbhBYS6YsE_d03gDK65cWTKFsyko_2XaOCKMYWbPnjZo8eieCExmwycm7sNCuNNb0aiofW96819z/pub?start=false&loop=false&delayms=3000
