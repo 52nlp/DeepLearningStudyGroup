@@ -16,7 +16,7 @@
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
-  + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/6/15*
+  + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/6/15**
   + [ ] [Case: Credit Card Analysis (Logistic Regression to DNN)][15] **2019/6/15**
   + [ ] [Case: MNIST (RNN)][2] **2019/6/29**
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/6/29**
