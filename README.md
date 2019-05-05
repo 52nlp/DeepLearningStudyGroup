@@ -10,21 +10,21 @@
   + [X] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
   + [X] [2019-0420 Slide][21]@忠孝伯朗咖啡 
 + [ ] Pytorch Cases實作: 
-  + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/4/21**
-  + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/4/21**
-  + [ ] [Case: MNIST (Logistic Regression)][12] **2019/4/21**
+  + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
+  + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
+  + [ ] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
 + [ ] Tensorflow Cases實作: 
-  + [ ] [Common knowledge][3] **2019/4/28**
-  + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/4/28**
-  + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/4/28**
-  + [ ] [Case: Credit Card Analysis (Logistic Regression to DNN)][15] **2019/4/28**
-  + [ ] [Case: MNIST (RNN)][2] **2019/5/5**
-  + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/5/5**
-  + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/5/5**
+  + [ ] [Common knowledge][3] **2019/6/15**
+  + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
+  + [ ] [Case: Titanic survivor (Logistic Regression)][13] **2019/6/15*
+  + [ ] [Case: Credit Card Analysis (Logistic Regression to DNN)][15] **2019/6/15**
+  + [ ] [Case: MNIST (RNN)][2] **2019/6/29**
+  + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/6/29**
+  + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/6/29**
 + [ ] Milestones目標 (關鍵成果):
-  + [ ] [Pytorch: Seq2Seq 實作數學加法運算 (with or without Attention)][20] **2019/5/1**
-  + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/5/19**
-  + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/6/2**
+  + [ ] [Pytorch: Seq2Seq 實作數學加法運算 (with or without Attention)][20] **2019/6/8**
+  + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/6/22**
+  + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/7/13**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
     + [ ] [Ref: Neural ODE & DiffEqFlux - 杜岳華 (without QA)][22]
   + [ ] 大型資料黑客松競賽 **2019/11/1**
