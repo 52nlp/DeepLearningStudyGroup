@@ -9,11 +9,11 @@
   + [X] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
   + [X] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
   + [X] [2019-0420 Slide: pyTorch - Get Started][21]@忠孝伯朗咖啡 
-+ [ ] Pytorch Cases實作: 
-  + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
-  + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
-  + [ ] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
-  + [ ] [2019-0505 Slide: pyTorch 101][23]@小樹屋-民權西路 
++ [X] Pytorch Cases實作: 
+  + [X] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
+  + [X] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
+  + [X] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
+  + [X] [2019-0505 Slide: pyTorch 101][23]@小樹屋-民權西路 
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
