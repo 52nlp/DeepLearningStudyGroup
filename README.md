@@ -13,7 +13,7 @@
   + [ ] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
   + [ ] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
   + [ ] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
-  + [ ] [2019-0505 Slide][21]@小樹屋-民權西路 
+  + [ ] [2019-0505 Slide][23]@小樹屋-民權西路 
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
