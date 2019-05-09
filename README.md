@@ -6,14 +6,14 @@
 實務cases實作, 每週實體聚會討論交流, 隨時線上討論.
 # 時程:
 + [X] Pytorch 入門: [Tensor 操作][16], torch optim...等 **2019/4/14**
-  + [X] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
-  + [X] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
-  + [X] [2019-0420 Slide: pyTorch - Get Started][21]@忠孝伯朗咖啡 
+  + [X] [PyTorch的backward()相关理解(舊版pytorch，參考)][17]
+  + [X] [PyTorch基礎篇-張量、模型自動更新、優化器(舊版PyTorch，參考)][18]
+  + [X] [2019-0420 Slide: PyTorch - Get Started][21]@忠孝伯朗咖啡 
 + [X] Pytorch 101: Cases實作: 
   + [X] [世界人口預測 (Linear Regression)][6] **2019/5/5**
   + [X] [Stock Price (Logistic Regression)][7] **2019/5/5**
   + [X] [MNIST (Logistic Regression)][12] **2019/5/5**
-  + [X] [2019-0505 Slide: pyTorch 101][23]@小樹屋-民權西路
+  + [X] [2019-0505 Slide: PyTorch 101][23]@小樹屋-民權西路
 + [ ] Pytorch 201: Cases實作: 
   + [ ] [NLP: RNN 寫中國詩][24] **2019/5/19**
 + [ ] Tensorflow Cases實作: 
@@ -25,8 +25,8 @@
   + [ ] [Case: Fashion MNIST (DNN, GRU, Dataset API)][1] **2019/6/29**
   + [ ] [Case: Fashion MNIST (Tensorflow 2.0 API)][9] **2019/6/29**
 + [ ] Milestones目標 (關鍵成果):
-  + [ ] [Pytorch: Seq2Seq 實作數學加法運算 (with or without Attention)][20] **2019/6/8**
-  + [ ] [Pytorch: Attention is all you need (Transformer)][4] **2019/6/22**
+  + [ ] [PyTorch: Seq2Seq 實作數學加法運算 (with or without Attention)][20] **2019/6/8**
+  + [ ] [PyTorch: Attention is all you need (Transformer)][4] **2019/6/22**
   + [ ] [Tensorflow: Attention is all you need (Transformer)][8] **2019/7/13**
   + [ ] [Neural Ordinary Differential Equations][14] **2019/?/?**
     + [ ] [Ref: Neural ODE & DiffEqFlux - 杜岳華 (without QA)][22]
