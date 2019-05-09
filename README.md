@@ -9,11 +9,13 @@
   + [X] [Pytorch的backward()相关理解(舊版pytorch，參考)][17]
   + [X] [Pytorch基礎篇-張量、模型自動更新、優化器(舊版pytorch，參考)][18]
   + [X] [2019-0420 Slide: pyTorch - Get Started][21]@忠孝伯朗咖啡 
-+ [X] Pytorch Cases實作: 
-  + [X] [Case: 世界人口預測 (Linear Regression)][6] **2019/5/5**
-  + [X] [Case: Stock Price (Logistic Regression)][7] **2019/5/5**
-  + [X] [Case: MNIST (Logistic Regression)][12] **2019/5/5**
-  + [X] [2019-0505 Slide: pyTorch 101][23]@小樹屋-民權西路 
++ [X] Pytorch 101: Cases實作: 
+  + [X] [世界人口預測 (Linear Regression)][6] **2019/5/5**
+  + [X] [Stock Price (Logistic Regression)][7] **2019/5/5**
+  + [X] [MNIST (Logistic Regression)][12] **2019/5/5**
+  + [X] [2019-0505 Slide: pyTorch 101][23]@小樹屋-民權西路
++ [ ] Pytorch 201: Cases實作: 
+  + [ ] [NLP: RNN 寫中國詩][24] **2019/5/19**
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
@@ -63,3 +65,4 @@
 [21]:https://docs.google.com/presentation/d/e/2PACX-1vSVi_bYmbEMRDYON1sJJZfcG2KidmPjh-X7zeoNn7s6eidzgdJgOJevW3xxE2dhO1i6qN-OBM8tnHpq/pub?start=false&loop=false&delayms=3000
 [22]:https://www.youtube.com/watch?v=hAA_AfVB89M&app=desktop
 [23]:https://docs.google.com/presentation/d/e/2PACX-1vRjpbhBYS6YsE_d03gDK65cWTKFsyko_2XaOCKMYWbPnjZo8eieCExmwycm7sNCuNNb0aiofW96819z/pub?start=false&loop=false&delayms=3000
+[24]:https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN)
