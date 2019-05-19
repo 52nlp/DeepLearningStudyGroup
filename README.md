@@ -15,7 +15,7 @@
   + [X] [MNIST (Logistic Regression)][12] **2019/5/5**
   + [X] [2019-0505 Slide: PyTorch 101][23]@小樹屋-民權西路
 + [ ] Pytorch 201: Cases實作: 
-  + [ ] [NLP: RNN 寫中國詩][24] **2019/5/19**
+  + [ ] [NLP: RNN (LSTM) 寫中國詩][24] **2019/5/25**
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
