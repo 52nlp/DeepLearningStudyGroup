@@ -14,8 +14,9 @@
   + [X] [Stock Price (Logistic Regression)][7] **2019/5/5**
   + [X] [MNIST (Logistic Regression)][12] **2019/5/5**
   + [X] [2019-0505 Slide: PyTorch 101][23]@小樹屋-民權西路
-+ [ ] Pytorch 201: Cases實作: 
-  + [ ] [NLP: RNN (LSTM) 寫中國詩][24] **2019/5/25**
++ [ ] Pytorch 102: Cases實作: 
+  + [ ] [NLP: RNN (LSTM) 寫古詩][24] **2019/5/25**
+  + [ ] [2019-0525 Slide: PyTorch 102][25]@小樹屋-民權西路
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
@@ -66,3 +67,4 @@
 [22]:https://www.youtube.com/watch?v=hAA_AfVB89M&app=desktop
 [23]:https://docs.google.com/presentation/d/e/2PACX-1vRjpbhBYS6YsE_d03gDK65cWTKFsyko_2XaOCKMYWbPnjZo8eieCExmwycm7sNCuNNb0aiofW96819z/pub?start=false&loop=false&delayms=3000
 [24]:https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN)
+[25]:https://docs.google.com/presentation/d/e/2PACX-1vRDk0aKx6IzVRYPWpwejwoucfgBsltQ_DSF1qftvzeKUGRdmsBz6MQOdLymbP_nwdYJALhG--LvFb3o/pub?start=false&loop=false&delayms=3000
