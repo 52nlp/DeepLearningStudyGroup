@@ -17,6 +17,8 @@
 + [X] Pytorch 102: Cases實作: 
   + [X] [NLP: RNN (LSTM) 寫古詩][24] **2019/5/25**
   + [X] [2019-0525 Slide: PyTorch 102][25]@小樹屋-民權西路
++ [ ] Pytorch 103: Cases實作: 
+  + [ ] [Time Series: RNN GDP 預測][28] **2019/6/22**
 + [ ] Paper Study: 
   + [ ] [Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks][27] **2019/6/22**  
 + [ ] Tensorflow Cases實作: 
@@ -73,3 +75,4 @@
 [25]:https://docs.google.com/presentation/d/e/2PACX-1vRDk0aKx6IzVRYPWpwejwoucfgBsltQ_DSF1qftvzeKUGRdmsBz6MQOdLymbP_nwdYJALhG--LvFb3o/pub?start=false&loop=false&delayms=3000
 [26]:https://www.leiphone.com/news/201903/lMKp1UxI4aOprIlv.html?fbclid=IwAR3zvIi_LX5KEJR0_wi9rQdH7rI60qojvZL5Qdjd_diymQU9DzatjgsMhkk
 [27]:http://delivery.acm.org/10.1145/3220000/3219828/p596-ni.pdf?ip=114.36.19.203&id=3219828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1559229270_eebb4e18d2fc52764722da7a634be401
+[28]:https://github.com/ZhiqingXiao/pytorch-book/tree/master/chapter09_RNN
