@@ -42,6 +42,7 @@
 + [Tensorflow 中文教學][10]
 + [Pytorch LSTM, GRU][19]
 + [Transformer 入門中文文章][11]
++ [NLP 新手必看！这是一份覆盖全面的基于 PyTorch 和 keras 的 NLP 学习教程][26]
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
 [2]:https://colab.research.google.com/drive/18FqI18psdH30WUJ1uPd6zVgK2AwxO_Bj
@@ -68,3 +69,5 @@
 [23]:https://docs.google.com/presentation/d/e/2PACX-1vRjpbhBYS6YsE_d03gDK65cWTKFsyko_2XaOCKMYWbPnjZo8eieCExmwycm7sNCuNNb0aiofW96819z/pub?start=false&loop=false&delayms=3000
 [24]:https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN)
 [25]:https://docs.google.com/presentation/d/e/2PACX-1vRDk0aKx6IzVRYPWpwejwoucfgBsltQ_DSF1qftvzeKUGRdmsBz6MQOdLymbP_nwdYJALhG--LvFb3o/pub?start=false&loop=false&delayms=3000
+[26]:https://www.leiphone.com/news/201903/lMKp1UxI4aOprIlv.html?fbclid=IwAR3zvIi_LX5KEJR0_wi9rQdH7rI60qojvZL5Qdjd_diymQU9DzatjgsMhkk
+
