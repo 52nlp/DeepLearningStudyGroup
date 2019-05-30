@@ -14,9 +14,11 @@
   + [X] [Stock Price (Logistic Regression)][7] **2019/5/5**
   + [X] [MNIST (Logistic Regression)][12] **2019/5/5**
   + [X] [2019-0505 Slide: PyTorch 101][23]@小樹屋-民權西路
-+ [ ] Pytorch 102: Cases實作: 
-  + [ ] [NLP: RNN (LSTM) 寫古詩][24] **2019/5/25**
-  + [ ] [2019-0525 Slide: PyTorch 102][25]@小樹屋-民權西路
++ [X] Pytorch 102: Cases實作: 
+  + [X] [NLP: RNN (LSTM) 寫古詩][24] **2019/5/25**
+  + [X] [2019-0525 Slide: PyTorch 102][25]@小樹屋-民權西路
++ [ ] Paper Study: 
+  + [ ] [Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks][27] **2019/6/22**  
 + [ ] Tensorflow Cases實作: 
   + [ ] [Common knowledge][3] **2019/6/15**
   + [ ] [Case: 玩轉IRIS資料集, 零基礎範例][5] **2019/6/15**
@@ -70,4 +72,4 @@
 [24]:https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN)
 [25]:https://docs.google.com/presentation/d/e/2PACX-1vRDk0aKx6IzVRYPWpwejwoucfgBsltQ_DSF1qftvzeKUGRdmsBz6MQOdLymbP_nwdYJALhG--LvFb3o/pub?start=false&loop=false&delayms=3000
 [26]:https://www.leiphone.com/news/201903/lMKp1UxI4aOprIlv.html?fbclid=IwAR3zvIi_LX5KEJR0_wi9rQdH7rI60qojvZL5Qdjd_diymQU9DzatjgsMhkk
-
+[27]:http://delivery.acm.org/10.1145/3220000/3219828/p596-ni.pdf?ip=114.36.19.203&id=3219828&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1559229270_eebb4e18d2fc52764722da7a634be401
