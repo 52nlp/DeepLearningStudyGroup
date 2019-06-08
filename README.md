@@ -49,6 +49,8 @@
 + [Pytorch LSTM, GRU][19]
 + [Transformer 入門中文文章][11]
 + [NLP 新手必看！这是一份覆盖全面的基于 PyTorch 和 keras 的 NLP 学习教程][26]
++ [Deeplearning-models 大全: 含大量 Tensorflow, PyTorch 範例][31]
+
 
 [1]:https://colab.research.google.com/drive/1Nn_9cdSK9yH4nWJx-vdKat8NWnmjopu0
 [2]:https://colab.research.google.com/drive/18FqI18psdH30WUJ1uPd6zVgK2AwxO_Bj
@@ -80,3 +82,4 @@
 [28]:https://github.com/ZhiqingXiao/pytorch-book/tree/master/chapter09_RNN
 [29]:https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-中文版-2714bbd92727
 [30]:https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-2-中文版-ef2ddf8597a4
+[31]:https://github.com/rasbt/deeplearning-models
