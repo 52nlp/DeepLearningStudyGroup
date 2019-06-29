@@ -47,6 +47,7 @@
 ## Reference Material
 + [Tensorflow 中文教學][10]
 + [Pytorch LSTM, GRU][19]
++ [Seq2Seq with Attention 的 PyTorch 範例][32]
 + [Transformer 入門中文文章][11]
 + [NLP 新手必看！这是一份覆盖全面的基于 PyTorch 和 keras 的 NLP 学习教程][26]
 + [Deeplearning-models 大全: 含大量 Tensorflow, PyTorch 範例][31]
@@ -83,3 +84,4 @@
 [29]:https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-中文版-2714bbd92727
 [30]:https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-2-中文版-ef2ddf8597a4
 [31]:https://github.com/rasbt/deeplearning-models
+[32]:https://github.com/bentrevett/pytorch-seq2seq/blob/master/3%20-%20Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.ipynb
